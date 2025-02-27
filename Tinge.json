@@ -16,7 +16,7 @@
                 },
 
                 {
-                    "markdown": "## 描述\n- 如图。",
+                    "markdown": "## \n- 如图。",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
