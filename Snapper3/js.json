@@ -1,0 +1,37 @@
+       {
+            "class": "DepictionStackView",
+            "tabname": "插件介绍",
+            "views": [
+              
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "## 描述\n- Snapper3的美化，自用款，素材来自不知名网友，亲测无根隐根直装，搭配源里的Plugins For Snapper3使用效果更佳。",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionHeaderView",
+                    "title": "截图",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionScreenshotsView",
+                    "itemCornerRadius": 0,
+                    "itemSize": "{260, 346.4533333333333}",
+                    "screenshots": [
+                        {
+                            "accessibilityText": "Screenshot",
+                            "url": "https://github.com/Wkkyy00/SileoDepiction/Snapper3/snapper3wkk.PNG"
+                        },
+                        
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                
+            ]
