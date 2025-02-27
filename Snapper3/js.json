@@ -1,0 +1,16 @@
+{
+    "class": "DepictionTabView",
+    "tabs": [
+        {
+            "class": "DepictionStackView",
+            "tabname": "描述",
+            "views": [
+                {
+                    "class": "DepictionImageView",
+                    "url": "https://wkkyy00.github.io/SileoDepiction/Snapper3/snapper3wkk.PNG",
+                    "accessibilityText": "Snapper3wkk 预览图"
+                }
+            ]
+        }
+    ]
+}
