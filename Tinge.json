@@ -29,7 +29,7 @@
                 },
                 {
                     "class": "DepictionHeaderView",
-                    "title": "预览",
+                    "title": "",
                     "useBoldText": true,
                     "useBottomMargin": false
                 },
