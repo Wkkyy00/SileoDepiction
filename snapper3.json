@@ -9,31 +9,24 @@
             "tabname": "描述",
             "views": [
                 {
-          "text": "加入QQ交流群",
-          "action": "http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=tmYho28HyeJqzv9CYJFvLrxk2U6CpvNc&authKey=FEyPQNwhkJiJeBWserFhZLDd7Qh%2Fh7eW5vt1EXKuYcA6RiJnMrlNribt1qKDDlKr&noverify=0&group_code=828308356",
-          "openExternal": 1,
-          "class": "DepictionButtonView"
-                },
-
-                {
-                    "markdown": "## 描述\n- Snapper3的美化，自用款，素材来自不知名网友，亲测无根隐根直装，搭配源里的Plugins For Snapper3使用效果更佳。",
+                    "markdown": "## \n- Snapper3的美化，自用款，素材来自不知名网友，亲测无根隐根直装，搭配源里的Plugins For Snapper3使用效果更佳。",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
                 {
                     "class": "DepictionSeparatorView"
                 },
-                                                {
+                {
                     "class": "DepictionSpacerView",
                     "spacing": 8
                 },
                 {
                     "class": "DepictionHeaderView",
-                    "title": "预览",
+                    "title": "",
                     "useBoldText": true,
                     "useBottomMargin": false
                 },
-                                {
+                {
                     "class": "DepictionSpacerView",
                     "spacing": 8
                 },
@@ -47,38 +40,6 @@
                             "url": "https://s1.imagehub.cc/images/2025/02/28/e343125895803ac204581b9ce294df63.png"
                         }
                     ]
-                },
-                {
-                    "class": "DepictionSpacerView",
-                    "spacing": 16
-                },
-                {
-                    "class": "DepictionHeaderView",
-                    "title": "详情",
-                    "useBoldText": true,
-                    "useBottomMargin": false
-                },
-                {
-                    "class": "DepictionSpacerView",
-                    "spacing": 8
-                },
-                {
-                    "class": "DepictionSeparatorView"
-                },
-                {
-                    "class": "DepictionTableTextView",
-                    "text": "1.0",
-                    "title": "插件版本"
-                },
-                {
-                    "class": "DepictionTableTextView",
-                    "text": "iOS 15 - iOS 16.5",
-                    "title": "支持系统"
-                },
-                                {
-                    "class": "DepictionTableTextView",
-                    "text": "2025 年 02 月 28 日",
-                    "title": "最后更新"
                 }
             ]
         },
@@ -88,10 +49,9 @@
             "views": [
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "### 1.0\n- 无",
-                },
-                
+                    "markdown": "### 1.0\n- 初版也是最终版本。"
+                }
             ]
         }
-    ],
+    ]
 }
