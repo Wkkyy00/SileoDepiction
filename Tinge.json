@@ -9,13 +9,6 @@
             "tabname": "描述",
             "views": [
                 {
-          "text": "加入QQ交流群",
-          "action": "http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=tmYho28HyeJqzv9CYJFvLrxk2U6CpvNc&authKey=FEyPQNwhkJiJeBWserFhZLDd7Qh%2Fh7eW5vt1EXKuYcA6RiJnMrlNribt1qKDDlKr&noverify=0&group_code=828308356",
-          "openExternal": 1,
-          "class": "DepictionButtonView"
-                },
-
-                {
                     "markdown": "## \n- 如图。",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
@@ -23,7 +16,7 @@
                 {
                     "class": "DepictionSeparatorView"
                 },
-                                                {
+                {
                     "class": "DepictionSpacerView",
                     "spacing": 8
                 },
@@ -33,7 +26,7 @@
                     "useBoldText": true,
                     "useBottomMargin": false
                 },
-                                {
+                {
                     "class": "DepictionSpacerView",
                     "spacing": 8
                 },
@@ -75,7 +68,7 @@
                     "text": "iOS 15 - iOS 16.5",
                     "title": "支持系统"
                 },
-                                {
+                {
                     "class": "DepictionTableTextView",
                     "text": "2025 年 2 月 28 日",
                     "title": "最后更新"
@@ -88,10 +81,9 @@
             "views": [
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "### 1.0\n- 无",
-                },
-                
+                    "markdown": "### 1.2.1\n- 无",
+                }
             ]
         }
-    ],
+    ]
 }
