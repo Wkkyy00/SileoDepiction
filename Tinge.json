@@ -42,6 +42,16 @@
                     ]
                 }
             ]
+        },
+        {
+            "class": "DepictionStackView",
+            "tabname": "更新",
+            "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 1.2.1\n- 无"
+                }
+            ]
         }
     ]
 }
