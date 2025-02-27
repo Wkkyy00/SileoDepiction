@@ -40,48 +40,6 @@
                             "url": "https://s1.imagehub.cc/images/2025/02/28/106d2fa74351deb434418b421f84bbb1.png"
                         }
                     ]
-                },
-                {
-                    "class": "DepictionSpacerView",
-                    "spacing": 16
-                },
-                {
-                    "class": "DepictionHeaderView",
-                    "title": "详情",
-                    "useBoldText": true,
-                    "useBottomMargin": false
-                },
-                {
-                    "class": "DepictionSpacerView",
-                    "spacing": 8
-                },
-                {
-                    "class": "DepictionSeparatorView"
-                },
-                {
-                    "class": "DepictionTableTextView",
-                    "text": "1.2.1",
-                    "title": "插件版本"
-                },
-                {
-                    "class": "DepictionTableTextView",
-                    "text": "iOS 15 - iOS 16.5",
-                    "title": "支持系统"
-                },
-                {
-                    "class": "DepictionTableTextView",
-                    "text": "2025 年 2 月 28 日",
-                    "title": "最后更新"
-                }
-            ]
-        },
-        {
-            "class": "DepictionStackView",
-            "tabname": "更新",
-            "views": [
-                {
-                    "class": "DepictionMarkdownView",
-                    "markdown": "### 1.2.1\n- 无",
                 }
             ]
         }
