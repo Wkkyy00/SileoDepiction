@@ -93,6 +93,13 @@
             "views": [
                 {
                     "class": "DepictionMarkdownView",
+                    "markdown": "### 1.4.9-6\n- 优化截图隐藏 ARC 和悬浮图标逻辑，避免与其他应用冲突。调整为仅在截图或录屏时隐藏，不影响正常操作。\n- 优化外部插件唤起浮窗和 ARC 的逻辑，确保在功能关闭时不会误触发。",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionMarkdownView",
                     "markdown": "### 1.4.9-5\n- 修复切换键盘时，搜索界面持续上升问题",
                 },
                 {
@@ -100,7 +107,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "### 1.4.9-4\n- 新增竖屏键盘弹起时，是否避免搜索app视图被键盘遮挡功能（需要自行开启开关）",
+                    "markdown": "### 1.4.9-4\n- 新增竖屏键盘弹起时，是否避免搜索 app 视图被键盘遮挡功能（需要自行开启开关）",
                 },
                 {
                     "class": "DepictionSeparatorView"
@@ -135,7 +142,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "### 1.4.8-9\n- 修复浮窗应用为相机时，且全屏打开相机造成误杀问题（暂未修复）\n- 修复iOS15配置页面加载异常问题（已修复）",
+                    "markdown": "### 1.4.8-9\n- 修复浮窗应用为相机时，且全屏打开相机造成误杀问题（暂未修复）\n- 修复 iOS 15 配置页面加载异常问题（已修复）",
                 },
                 {
                     "class": "DepictionSeparatorView"
@@ -156,7 +163,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "### 1.4.8-6\n- 修复桌面图标开关关闭后，dock栏仍然生效问题",
+                    "markdown": "### 1.4.8-6\n- 修复桌面图标开关关闭后，dock 栏仍然生效问题",
                 },
                 {
                     "class": "DepictionSeparatorView"
@@ -170,7 +177,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "### 1.4.8-4\n- 修复了arc打开浮窗应用会闪一下的问题",
+                    "markdown": "### 1.4.8-4\n- 修复了 ARC 打开浮窗应用会闪一下的问题",
                 },
                 {
                     "class": "DepictionSeparatorView"
@@ -198,7 +205,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "### 1.4.8\n- 修复微信来通知外置键盘收回问题，修复长按微信消息、qq消息外置键盘收回问题\n- 优化部分逻辑，防止部分机型锁屏闹钟安全模式",
+                    "markdown": "### 1.4.8\n- 修复微信来通知外置键盘收回问题，修复长按微信消息、QQ 消息外置键盘收回问题\n- 优化部分逻辑，防止部分机型锁屏闹钟安全模式",
                 },
                 {
                     "class": "DepictionSeparatorView"
@@ -219,7 +226,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "### 1.4.6-2\n- 截图隐藏arc、隐藏悬浮图标功能",
+                    "markdown": "### 1.4.6-2\n- 截图隐藏 ARC、隐藏悬浮图标功能",
                 },
                 {
                     "class": "DepictionSeparatorView"
@@ -233,7 +240,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "### 1.4.6\n- 释放了部分内存，不知道还卡不卡\n- 改了浮窗加载动画，调整为应用启动图，不过部分应用的启动图很奇怪，想要改需要自己去filza里面改",
+                    "markdown": "### 1.4.6\n- 释放了部分内存，不知道还卡不卡\n- 改了浮窗加载动画，调整为应用启动图，不过部分应用的启动图很奇怪，想要改需要自己去 Filza 里面改",
                 }
             ]
         }
