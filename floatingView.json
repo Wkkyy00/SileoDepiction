@@ -9,7 +9,7 @@
             "tabname": "描述",
             "views": [
                 {
-                    "markdown": "## floatingView",
+                    "markdown": "## floatingView/n- 分屏，不必太复杂，一切从简即可。",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
