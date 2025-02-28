@@ -1,7 +1,7 @@
 {
     "class": "DepictionTabView",
     "headerImage": "https://s1.imagehub.cc/images/2025/02/28/ec9c879b8aa2635ad53708cd241b2cf7.jpeg",
-    "tintColor": "#1DD660",
+    "tintColor": "#005970",
     "minVersion": "0.3",
     "tabs": [
         {
