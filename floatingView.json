@@ -1,0 +1,229 @@
+{
+    "class": "DepictionTabView",
+    "headerImage": "https://s1.imagehub.cc/images/2025/02/28/ec9c879b8aa2635ad53708cd241b2cf7.jpeg",
+    "tintColor": "#1DD660",
+    "minVersion": "0.3",
+    "tabs": [
+        {
+            "class": "DepictionStackView",
+            "tabname": "描述",
+            "views": [
+                {
+                    "markdown": "## floatingView",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                },
+                {
+                    "class": "DepictionHeaderView",
+                    "title": "预览",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                },
+                {
+                    "class": "DepictionScreenshotsView",
+                    "itemCornerRadius": 0,
+                    "itemSize": "{700, 700}",
+                    "screenshots": [
+                        {
+                            "accessibilityText": "Screenshot",
+                            "url": "https://s1.imagehub.cc/images/2025/02/28/f0ba349490ed0da07cc1d51e868cf8c2.png"
+                        }
+                    ]
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 16
+                },
+                {
+                    "class": "DepictionHeaderView",
+                    "title": "详情",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "长按可自由选择",
+                    "title": "插件版本"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "iOS 15 - iOS 16.6.1",
+                    "title": "支持系统"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "2025 年 2 月 29 日",
+                    "title": "最后更新"
+                }
+            ]
+        },
+        {
+            "class": "DepictionStackView",
+            "tabname": "更新",
+            "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 1.4.9-5\n- 修复切换键盘时，搜索界面持续上升问题",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 1.4.9-4\n- 新增竖屏键盘弹起时，是否避免搜索app视图被键盘遮挡功能（需要自行开启开关）",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 1.4.9-3\n- 新增拖动外置键盘功能（仅横屏）",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 1.4.9-2\n- 修复从配置界面返回桌面，再次打开设置闪退问题",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 1.4.9-1\n- 修复横屏内置键盘放大中，下拉消息导致小窗缩小的问题",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 1.4.9\n- 修复浮窗应用为相机时，且全屏打开相机造成误杀问题\n- 新增外置键盘收起时，同时关闭浮窗功能",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 1.4.8-9\n- 修复浮窗应用为相机时，且全屏打开相机造成误杀问题（暂未修复）\n- 修复iOS15配置页面加载异常问题（已修复）",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 1.4.8-8\n- 修复横屏浮窗最大化内置键盘放大不生效问题",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 1.4.8-7\n- 尝试修复长时间不注销导致收不到通知横幅的问题",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 1.4.8-6\n- 修复桌面图标开关关闭后，dock栏仍然生效问题",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 1.4.8-5\n- 新增横竖屏键盘内外弹出控制\n- 修复横屏浮窗，浮窗内弹出键盘拖动浮窗时，造成错位问题",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 1.4.8-4\n- 修复了arc打开浮窗应用会闪一下的问题",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 1.4.8-3\n- 修复了浮窗应用没通知的问题",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 1.4.8-2\n- 修复了图钉模式下当前应用再打开当前应用就会直接卡住的问题",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 1.4.8-1\n- 新增浮窗阴影自定义调节\n- 修复浮窗固定屏幕中心打开，仅竖屏生效\n- 修复总开关关闭时，悬浮图标依旧显示问题",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 1.4.8\n- 修复微信来通知外置键盘收回问题，修复长按微信消息、qq消息外置键盘收回问题\n- 优化部分逻辑，防止部分机型锁屏闹钟安全模式",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 1.4.7-1\n- 修复相机不及时关闭问题",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 1.4.7\n- 修复记录悬浮图标位置、浮窗位置、浮窗大小、上一次打开的应用失效问题",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 1.4.6-2\n- 截图隐藏arc、隐藏悬浮图标功能",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 1.4.6-1\n- 修复启动图显示异常问题",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 1.4.6\n- 释放了部分内存，不知道还卡不卡\n- 改了浮窗加载动画，调整为应用启动图，不过部分应用的启动图很奇怪，想要改需要自己去filza里面改",
+                }
+            ]
+        }
+    ]
+}
