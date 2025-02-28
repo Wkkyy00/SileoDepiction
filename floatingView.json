@@ -93,6 +93,13 @@
             "views": [
                 {
                     "class": "DepictionMarkdownView",
+                    "markdown": "### 1.4.9-7\n- 修复开关 ARC 隐藏安全模式问题\n- 修复 ARC 图标不居中问题",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionMarkdownView",
                     "markdown": "### 1.4.9-6\n- 优化截图隐藏 ARC 和悬浮图标逻辑，避免与其他应用冲突。调整为仅在截图或录屏时隐藏，不影响正常操作。\n- 优化外部插件唤起浮窗和 ARC 的逻辑，确保在功能关闭时不会误触发。",
                 },
                 {
