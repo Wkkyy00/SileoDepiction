@@ -1,0 +1,59 @@
+{
+    "class": "DepictionTabView",
+    "headerImage": "https://s1.imagehub.cc/images/2025/02/28/ec9c879b8aa2635ad53708cd241b2cf7.jpeg",
+    "tintColor": "#005970",
+    "minVersion": "0.3",
+    "tabs": [
+        {
+            "class": "DepictionStackView",
+            "tabname": "描述",
+            "views": [
+                {
+                    "markdown": "## \n- 更改原生键盘文字。
+  * 键盘文字路径：/System/Library/TextInput/TextInput_zh.bundle
+  * 注意：先挂载路径再下载此插件，TextInput_zh.bundle目录里找到Keyboard-zh_Hans.plist文件，默认空格修改成wkk，自行修改，不会的也别问我，文字描述很详细了",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                },
+                {
+                    "class": "DepictionHeaderView",
+                    "title": "",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                },
+                {
+                    "class": "DepictionScreenshotsView",
+                    "itemCornerRadius": 0,
+                    "itemSize": "{700, 700}",
+                    "screenshots": [
+                        {
+                            "accessibilityText": "Screenshot",
+                            "url": "https://s1.imagehub.cc/images/2025/03/02/2ab7d2865045f87aceeeb640e59e073d.png"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "class": "DepictionStackView",
+            "tabname": "更新",
+            "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 1.0\n- yyds。"
+                }
+            ]
+        }
+    ]
+}
