@@ -1,0 +1,57 @@
+{
+    "class": "DepictionTabView",
+    "headerImage": "https://s1.imagehub.cc/images/2025/02/28/ec9c879b8aa2635ad53708cd241b2cf7.jpeg",
+    "tintColor": "#005970",
+    "minVersion": "0.3",
+    "tabs": [
+        {
+            "class": "DepictionStackView",
+            "tabname": "描述",
+            "views": [
+                {
+                    "markdown": "## \n- 更改控制中心计时器（直装）\n- 计时器路径：/System/Library/ControlCenter/Bundles/TimerModule.bundle/timer.ca\n- 注意：先挂载路径再下载此插件，如果Dopamine里重启Springboard未生效，再重启用户空间即可。\n- 仅在IOS16无根越狱上测试，其他系统自测。",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                },
+                {
+                    "class": "DepictionHeaderView",
+                    "title": "",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                },
+                {
+                    "class": "DepictionScreenshotsView",
+                    "itemCornerRadius": 0,
+                    "itemSize": "{700, 700}",
+                    "screenshots": [
+                        {
+                            "accessibilityText": "Screenshot",
+                            "url": "https://s1.imagehub.cc/images/2025/03/02/1a6f77cdab51133e11ab77ddb0b8126c.png"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "class": "DepictionStackView",
+            "tabname": "更新",
+            "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 1.0\n- yyds。"
+                }
+            ]
+        }
+    ]
+}
