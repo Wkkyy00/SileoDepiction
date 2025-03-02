@@ -9,9 +9,7 @@
             "tabname": "描述",
             "views": [
                 {
-                    "markdown": "## \n- 更改原生键盘文字。
-  * 键盘文字路径：/System/Library/TextInput/TextInput_zh.bundle
-  * 注意：先挂载路径再下载此插件，TextInput_zh.bundle目录里找到Keyboard-zh_Hans.plist文件，默认空格修改成wkk，自行修改，不会的也别问我，文字描述很详细了，不知道支不支持ios15。",
+                    "markdown": "## \n- 更改原生键盘文字。\n- 键盘文字路径：/System/Library/TextInput/TextInput_zh.bundle\n- 注意：先挂载路径再下载此插件，TextInput_zh.bundle目录里找到Keyboard-zh_Hans.plist文件，默认空格修改成wkk，自行修改，不会的也别问我，文字描述很详细了，不知道支不支持ios15。",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
