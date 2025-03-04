@@ -9,7 +9,7 @@
             "tabname": "描述",
             "views": [
                 {
-                    "markdown": "## \n- Filza美化（Dopamine无根越狱直装）",
+                    "markdown": "## \n- 仅支持正版Filza美化（Dopamine无根越狱直装）",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
