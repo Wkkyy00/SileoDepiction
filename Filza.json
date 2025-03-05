@@ -9,7 +9,7 @@
             "tabname": "描述",
             "views": [
                 {
-                    "markdown": "## \n- 仅支持正版Filza美化（Dopamine无根越狱直装）",
+                    "markdown": "## \n- 仅支持正版Filza美化（多巴胺无根越狱直装，破解版可以解包自行替换）\n- 补全遗漏的图标。\n- 另外说一点，搬运他人劳动成果不标注来源死个妈先。\n- 不想指名道姓，越狱圈子本就不大，别让自己变小丑。",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
@@ -42,6 +42,10 @@
                         {
                             "accessibilityText": "Screenshot",
                             "url": "https://s1.imagehub.cc/images/2025/03/04/34808d3df9078c06bc5e26e813f95731.png"
+                        },
+                        {
+                            "accessibilityText": "Screenshot",
+                            "url": "https://s1.imagehub.cc/images/2025/03/06/d6462594c7a0b0db94e370c6135c3f87.png"
                         }
                     ]
                 }
@@ -54,6 +58,10 @@
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "### 1.0\n- yyds。"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 1.1-end\n- 补全遗漏的图标。\n- 偷搬他人劳动成果不标注来源死个妈先。"
                 }
             ]
         }
