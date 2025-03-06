@@ -9,7 +9,7 @@
             "tabname": "描述",
             "views": [
                 {
-                    "markdown": "## \n- Sileo美化，如图（需要snowboard ui扩展）\n- 测试为隐根sileo，无根不知道，自测吧。\n- 注：搬运他人劳动成果不标注来源先死个妈。",
+                    "markdown": "## \n- Sileo美化，如图（需要snowboard ui扩展）\n- 测试为隐根sileo，无根不知道，自测。\n- 注：搬运他人劳动成果请标注原地址及作者。",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
@@ -37,7 +37,11 @@
                     "screenshots": [
                         {
                             "accessibilityText": "Screenshot",
-                            "url": "https://s1.imagehub.cc/images/2025/03/06/c5867108f22d9007dde620eda7533e9b.jpeg"
+                            "url": "https://s1.imagehub.cc/images/2025/03/06/22faf51b42a056be26638c836eeff646.png"
+                        },
+                        {
+                            "accessibilityText": "Screenshot",
+                            "url": "https://s1.imagehub.cc/images/2025/03/06/9447e3bea6173a35fea9639d70961510.png"
                         }
                     ]
                 }
