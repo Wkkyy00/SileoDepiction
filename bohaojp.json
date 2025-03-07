@@ -1,0 +1,57 @@
+{
+    "class": "DepictionTabView",
+    "headerImage": "https://s1.imagehub.cc/images/2025/02/28/ec9c879b8aa2635ad53708cd241b2cf7.jpeg",
+    "tintColor": "#005970",
+    "minVersion": "0.3",
+    "tabs": [
+        {
+            "class": "DepictionStackView",
+            "tabname": "描述",
+            "views": [
+                {
+                    "markdown": "## \n- 拨号键盘美化，如图（需要snowboard ui扩展）\n- 搬运且提取自百度主题源某主题部分素材",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                },
+                {
+                    "class": "DepictionHeaderView",
+                    "title": "",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                },
+                {
+                    "class": "DepictionScreenshotsView",
+                    "itemCornerRadius": 0,
+                    "itemSize": "{700, 700}",
+                    "screenshots": [
+                        {
+                            "accessibilityText": "Screenshot",
+                            "url": "https://s1.imagehub.cc/images/2025/03/08/2d0a7add68abe2c03780f59a14afd62b.png"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "class": "DepictionStackView",
+            "tabname": "更新",
+            "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 1.0\n- 仅此一套，后续素材多了陆续更新。"
+                }
+            ]
+        }
+    ]
+}
