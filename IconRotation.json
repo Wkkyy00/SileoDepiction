@@ -1,0 +1,61 @@
+{
+    "class": "DepictionTabView",
+    "headerImage": "https://s1.imagehub.cc/images/2025/02/28/ec9c879b8aa2635ad53708cd241b2cf7.jpeg",
+    "tintColor": "#005970",
+    "minVersion": "0.3",
+    "tabs": [
+        {
+            "class": "DepictionStackView",
+            "tabname": "描述",
+            "views": [
+                {
+                    "markdown": "## \n- 屏幕四个方向都可以使图标旋转，花里胡哨必备。\n- 无根隐根都支持。",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                },
+                {
+                    "class": "DepictionHeaderView",
+                    "title": "",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                },
+                {
+                    "class": "DepictionScreenshotsView",
+                    "itemCornerRadius": 0,
+                    "itemSize": "{700, 700}",
+                    "screenshots": [
+                        {
+                            "accessibilityText": "Screenshot",
+                            "url": "https://s1.imagehub.cc/images/2025/03/07/f3ac07de2da46746e3f359fc68b5cb36.jpeg"
+                        },
+                        {
+                            "accessibilityText": "Screenshot",
+                            "url": "https://s1.imagehub.cc/images/2025/03/07/97309ebf9073ad7969ae7759fcab1322.jpeg"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "class": "DepictionStackView",
+            "tabname": "更新",
+            "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 1.0\n- yyds。"
+                }
+            ]
+        }
+    ]
+}
