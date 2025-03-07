@@ -9,7 +9,7 @@
             "tabname": "描述",
             "views": [
                 {
-                    "markdown": "## \n- 屏幕四个方向都可以使图标旋转，花里胡哨必备。\n- 无根隐根都支持。",
+                    "markdown": "## \n- 屏幕四个方向都可以使图标旋转，支持小组件，花里胡哨必备。\n- 无根隐根都支持。",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
