@@ -9,7 +9,7 @@
             "tabname": "描述",
             "views": [
                 {
-                    "markdown": "## \n-  仅支持正版，自己做的，感觉一般。。无根隐根直装，搭配源里的Plugins For Snapper3和Hello Snapper使用效果如图，不支持长截图扩展。",
+                    "markdown": "## \n- 仅支持正版，自己做的，感觉一般。。无根隐根直装，搭配源里的Plugins For Snapper3和Hello Snapper使用效果如图，不支持长截图扩展。",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
@@ -49,7 +49,7 @@
             "views": [
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "### 1.0\n- 初始版本也是最终版本。"
+                    "markdown": "### 1.0\n- 初版也是最终版本。"
                 }
             ]
         }
