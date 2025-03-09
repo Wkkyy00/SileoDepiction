@@ -93,6 +93,13 @@
             "views": [
                 {
                     "class": "DepictionMarkdownView",
+                    "markdown": "### 1.5.0-1\n- 防止切换外置键盘为键盘内弹出，平铺逻辑依旧生效问题"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionMarkdownView",
                     "markdown": "### 1.5.0\n- 新增横屏平铺键盘功能（目前不稳定，后续可能优化，或者割舍）\n- 修复总开关关闭时，相机权限依旧生效问题。"
                 },
                 {
