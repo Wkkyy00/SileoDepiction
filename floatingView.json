@@ -93,7 +93,15 @@
             "views": [
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "### 1.5.0-3\n1. 修复三屏位置不能实时更新问题\n2. 当外置键盘显示时，屏幕旋转时、外部插件唤起浮窗时隐藏键盘"
+                    "markdown": "### 1.5.0-5\n- 修改了一些逻辑，如果还是安全模式，那只能找别人去看看他们插件了"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 1.5.0-4\n- 修复悬浮角标数字为 0 时，依旧显示问题"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 1.5.0-3\n- 修复三屏位置不能实时更新问题\n- 当外置键盘显示时，屏幕旋转时、外部插件唤起浮窗时隐藏键盘"
                 },
                 {
                     "class": "DepictionSeparatorView"
