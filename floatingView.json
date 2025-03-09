@@ -93,6 +93,13 @@
             "views": [
                 {
                     "class": "DepictionMarkdownView",
+                    "markdown": "### 1.5.0-3\n1. 修复三屏位置不能实时更新问题\n2. 当外置键盘显示时，屏幕旋转时、外部插件唤起浮窗时隐藏键盘"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionMarkdownView",
                     "markdown": "### 1.5.0-2\n- 修复拖拽全屏打开浮窗应用恢复未拖拽时位置"
                 },
                 {
