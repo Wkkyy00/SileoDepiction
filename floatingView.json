@@ -96,12 +96,21 @@
                     "markdown": "### 1.5.0-6\n- 修复偶发性记录浮窗位置失效问题（换了记录方式，先前存储的位置信息不再读取，首次打开是默认位置，是正常现象。）"
                 },
                 {
+                    "class": "DepictionSeparatorView"
+                },
+                {
                     "class": "DepictionMarkdownView",
                     "markdown": "### 1.5.0-5\n- 修改了一些逻辑，如果还是安全模式，那只能找别人去看看他们插件了"
                 },
                 {
+                    "class": "DepictionSeparatorView"
+                },
+                {
                     "class": "DepictionMarkdownView",
                     "markdown": "### 1.5.0-4\n- 修复悬浮角标数字为 0 时，依旧显示问题"
+                },
+                {
+                    "class": "DepictionSeparatorView"
                 },
                 {
                     "class": "DepictionMarkdownView",
