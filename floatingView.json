@@ -93,14 +93,14 @@
             "views": [
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "### 1.5.0-10\n1、修复下拉结束录屏通知打开应用失败问题\n2、修复前台打开系统相机应用时，通过arc打开浮窗造成相机闪退问题"
+                    "markdown": "### 1.5.0-10\n- 修复下拉结束录屏通知打开应用失败问题\n- 修复前台打开系统相机应用时，通过arc打开浮窗造成相机闪退问题"
                 },
                 {
                     "class": "DepictionSeparatorView"
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "### 1.5.0-9\n新增桌面图标长按快捷项启动浮窗功能（只受全局总开关影响）"
+                    "markdown": "### 1.5.0-9\n- 新增桌面图标长按快捷项启动浮窗功能（只受全局总开关影响）"
                 },
                 {
                     "class": "DepictionSeparatorView"
