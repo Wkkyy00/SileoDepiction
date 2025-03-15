@@ -9,7 +9,7 @@
             "tabname": "描述",
             "views": [
                 {
-                    "markdown": "## \n- 分屏，不必太复杂，一切从简即可。\n- 不买别装。",
+                    "markdown": "## \n- 分屏，不必太复杂，一切从简即可。\n- 不买别装。\n- floatingView支持换绑，价格一直都是100，更新记录可查且是否在乎用户体验以及反馈，将心比心，作者不做垃圾分屏插件，不多做解释，需要购买+qq1772773799备注买fv（没有任何中间商赚差价）",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
