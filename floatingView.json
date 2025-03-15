@@ -93,6 +93,13 @@
             "views": [
                 {
                     "class": "DepictionMarkdownView",
+                    "markdown": "### 1.5.0-12\n- 支持实时搜索app。\n- 分离快捷按钮启动浮窗开关。\n- 修改关闭浮窗时关闭相机逻辑，调整为进入桌面、通知中心关闭。"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionMarkdownView",
                     "markdown": "### 1.5.0-11\n- 浮窗打开时，同步暗黑、高亮模式\n- 新增自定义快捷按钮启动浮窗开关\n- 修复arc已选择工具栏按钮排序显示异常问题"
                 },
                 {
