@@ -9,7 +9,7 @@
             "tabname": "描述",
             "views": [
                 {
-                    "markdown": "## \n- 分屏，不必太复杂，一切从简即可。\n- 不买别装。\n- floatingView支持换绑，价格一直都是100，更新记录可查且是否在乎用户体验以及反馈，将心比心，作者不做垃圾分屏插件，不多做解释，需要购买+qq1772773799备注买fv（没有任何中间商赚差价）",
+                    "markdown": "## \n- 分屏，不必太复杂，一切从简即可。\n- 不买别装。",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
@@ -82,7 +82,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2025年3月14日",
+                    "text": "2025年3月15日",
                     "title": "最后更新"
                 }
             ]
@@ -93,14 +93,7 @@
             "views": [
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "### 1.5.0-10\n- 修复下拉结束录屏通知打开应用失败问题\n- 修复前台打开系统相机应用时，通过arc打开浮窗造成相机闪退问题"
-                },
-                {
-                    "class": "DepictionSeparatorView"
-                },
-                {
-                    "class": "DepictionMarkdownView",
-                    "markdown": "### 1.5.0-9\n- 新增桌面图标长按快捷项启动浮窗功能（只受全局总开关影响）"
+                    "markdown": "### 1.5.0-11\n- 浮窗打开时，同步暗黑、高亮模式\n- 新增自定义快捷按钮启动浮窗开关\n- 修复arc已选择工具栏按钮排序显示异常问题"
                 },
                 {
                     "class": "DepictionSeparatorView"
