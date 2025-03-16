@@ -93,6 +93,13 @@
             "views": [
                 {
                     "class": "DepictionMarkdownView",
+                    "markdown": "### 1.5.1-1\n- 优化悬浮图标显示逻辑，防止进入桌面出现短暂位置闪跳问题\n- 优化读取配置速度"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionMarkdownView",
                     "markdown": "### 1.5.1\n- 新增还原、备份、导出、导入、恢复配置功能\n- 调整判断暗黑模式逻辑，防止开启自动暗黑模式失效问题"
                 },
                 {
