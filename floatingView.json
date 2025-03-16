@@ -9,7 +9,7 @@
             "tabname": "描述",
             "views": [
                 {
-                    "markdown": "## \n- 分屏，不必太复杂，一切从简即可。\n- 不买别装。\n- floatingView支持换绑，价格一直都是100，更新记录可查且是否在乎用户体验以及反馈，将心比心，作者不做垃圾分屏插件，不多做解释，需要购买+qq1772773799备注买fv（没有任何中间商赚差价）",
+                    "markdown": "## \n- 分屏，不必太复杂，一切从简即可。\n- 不买别装。",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
@@ -82,7 +82,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2025年3月15日",
+                    "text": "2025年3月16日",
                     "title": "最后更新"
                 }
             ]
@@ -91,6 +91,13 @@
             "class": "DepictionStackView",
             "tabname": "更新",
             "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 1.5.1\n- 新增还原、备份、导出、导入、恢复配置功能\n- 调整判断暗黑模式逻辑，防止开启自动暗黑模式失效问题"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "### 1.5.0-12\n- 支持实时搜索app。\n- 分离快捷按钮启动浮窗开关。\n- 修改关闭浮窗时关闭相机逻辑，调整为进入桌面、通知中心关闭。"
