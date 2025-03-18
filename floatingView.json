@@ -82,7 +82,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2025年3月16日",
+                    "text": "2025年3月18日",
                     "title": "最后更新"
                 }
             ]
@@ -91,6 +91,13 @@
             "class": "DepictionStackView",
             "tabname": "更新",
             "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 1.5.2\n- 下拉通知支持打开对应的消息界面（已测试QQ可以，微信还不行）"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "### 1.5.1-1\n- 优化悬浮图标显示逻辑，防止进入桌面出现短暂位置闪跳问题\n- 优化读取配置速度"
