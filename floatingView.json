@@ -100,6 +100,13 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
+                    "markdown": "### 1.5.2-1\n- 优化下拉横幅通知逻辑（已完善）\n- 修复悬浮图标在总开关关闭情况下依旧显示问题"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionMarkdownView",
                     "markdown": "### 1.5.1-1\n- 优化悬浮图标显示逻辑，防止进入桌面出现短暂位置闪跳问题\n- 优化读取配置速度"
                 },
                 {
