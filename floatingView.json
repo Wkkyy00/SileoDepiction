@@ -93,14 +93,14 @@
             "views": [
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "### 1.5.2\n- 下拉通知支持打开对应的消息界面（已测试QQ可以，微信还不行）"
+                    "markdown": "### 1.5.2-1\n- 优化下拉横幅通知逻辑（已完善）\n- 修复悬浮图标在总开关关闭情况下依旧显示问题"
                 },
                 {
                     "class": "DepictionSeparatorView"
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "### 1.5.2-1\n- 优化下拉横幅通知逻辑（已完善）\n- 修复悬浮图标在总开关关闭情况下依旧显示问题"
+                    "markdown": "### 1.5.2\n- 下拉通知支持打开对应的消息界面（已测试QQ可以，微信还不行）"
                 },
                 {
                     "class": "DepictionSeparatorView"
