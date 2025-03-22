@@ -93,6 +93,20 @@
             "views": [
                 {
                     "class": "DepictionMarkdownView",
+                    "markdown": "### 1.5.2-5\n- 修复拖动全屏打开应用失效问题"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 1.5.2-4\n- 优化内存，修复部分应用分屏时安全模式问题"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionMarkdownView",
                     "markdown": "### 1.5.2-3\n- 搜索app呼出方式新增手势呼出\n- 新增搜索app列表支持长按快捷菜单功能\n- 移除镜像arc功能\n- 优化部分性能"
                 },
                 {
