@@ -82,7 +82,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2025年3月22日",
+                    "text": "2025年3月24日",
                     "title": "最后更新"
                 }
             ]
@@ -91,6 +91,13 @@
             "class": "DepictionStackView",
             "tabname": "更新",
             "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 1.5.2-6\n- 修复操控台快捷菜单背景触控问题\n- 修复操控台app列表部分应用快捷菜单缺失问题\n- 修复操控台app快捷菜单横屏显示异常问题\n- 操控台搜索app面板按照中文拼音排列"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "### 1.5.2-5\n- 修复拖动全屏打开应用失效问题"
