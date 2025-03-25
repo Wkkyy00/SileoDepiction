@@ -9,7 +9,7 @@
             "tabname": "描述",
             "views": [
                 {
-                    "markdown": "## \n- 禁用相机预览+禁用交互，自制插件，如图，放心用。",
+                    "markdown": "## \n- 禁用相机预览+禁用交互，自制插件，如图，放心用。（隐藏功能：1倍及以上聚焦时拍摄栏底下虚化透明状态进入倒计时，大概3秒，增添一个虚化透明效果，0.5倍数暂无。插件无设置项，测试环境ios16RootHide越狱，有问题请反馈给我）",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
