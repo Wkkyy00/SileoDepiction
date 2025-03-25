@@ -9,7 +9,7 @@
             "tabname": "描述",
             "views": [
                 {
-                    "markdown": "## \n- 自制插件，如图，放心用。",
+                    "markdown": "## \n- 禁用相机预览+禁用交互，自制插件，如图，放心用。",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
