@@ -9,7 +9,7 @@
             "tabname": "描述",
             "views": [
                 {
-                    "markdown": "## \n- 一键解压当前目录下所有deb文件。",
+                    "markdown": "## \n- 下载后文件在目录/var/mobile/Documents/deb.sh\n- 使用方法：运行后，当前目录下所有.deb文件一键式解压。",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
