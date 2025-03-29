@@ -9,7 +9,7 @@
             "tabname": "描述",
             "views": [
                 {
-                    "markdown": "## \n- 分屏，不必太复杂，一切从简即可。\n- 不买别装。",
+                    "markdown": "## \n- 分屏，不必太复杂，一切从简即可。\n- 不买别安装，👀看清楚。",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
