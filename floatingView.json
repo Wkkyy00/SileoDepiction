@@ -93,6 +93,13 @@
             "views": [
                 {
                     "class": "DepictionMarkdownView",
+                    "markdown": "### 1.5.3-1\n- 修复点击通知造成注销问题"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionMarkdownView",
                     "markdown": "### 1.5.3\n- 更换分屏图标\n- 新增侧边栏应用（依附于悬浮图标）\n- 优化浮窗动画，秉持从哪呼出，回哪去。\n- 移除图钉、浮窗背景\n- 浮窗多窗口操作(调度)具体操作自行查看设置研究"
                 },
                 {
