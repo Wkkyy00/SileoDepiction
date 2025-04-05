@@ -93,6 +93,13 @@
             "views": [
                 {
                     "class": "DepictionMarkdownView",
+                    "markdown": "### 1.5.3-4\n- 新增浮窗角落触控区域调节，详细说明有标注，系统底部横条优先级很高，如果底部用不了就用顶部。"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionMarkdownView",
                     "markdown": "### 1.5.3-3\n- 新增支持拖拽到底部全屏打开应用"
                 },
                 {
