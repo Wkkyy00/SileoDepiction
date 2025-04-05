@@ -93,6 +93,13 @@
             "views": [
                 {
                     "class": "DepictionMarkdownView",
+                    "markdown": "### 1.5.3-3\n- 新增支持拖拽到底部全屏打开应用"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionMarkdownView",
                     "markdown": "### 1.5.3-2\n- 修复侧边栏卡住问题"
                 },
                 {
