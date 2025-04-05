@@ -105,6 +105,20 @@
             "views": [
                 {
                     "class": "DepictionMarkdownView",
+                    "markdown": "### 1.5.3-6\n- 新增点击调度主屏角落事件"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 1.5.3-5\n- 修复浮窗阴影设置失效问题。\n- 新增不自动布局开关"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionMarkdownView",
                     "markdown": "### 1.5.3-4\n- 新增浮窗角落触控区域调节，详细说明有标注，系统底部横条优先级很高，如果底部用不了就用顶部。"
                 },
                 {
