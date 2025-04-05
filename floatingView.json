@@ -105,6 +105,13 @@
             "views": [
                 {
                     "class": "DepictionMarkdownView",
+                    "markdown": "### 1.5.3-7\n- 修复通知横幅打开浮窗，后续全屏打开失败问题"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionMarkdownView",
                     "markdown": "### 1.5.3-6\n- 新增点击调度主屏角落事件"
                 },
                 {
