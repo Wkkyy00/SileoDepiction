@@ -112,14 +112,14 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "### 1.5.3-5\n- 修复浮窗阴影设置失效问题。\n- 新增不自动布局开关"
+                    "markdown": "### 1.5.3-5\n- 修复浮窗阴影设置失效问题\n- 新增不自动布局开关"
                 },
                 {
                     "class": "DepictionSeparatorView"
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "### 1.5.3-4\n- 新增浮窗角落触控区域调节，详细说明有标注，系统底部横条优先级很高，如果底部用不了就用顶部。"
+                    "markdown": "### 1.5.3-4\n- 新增浮窗角落触控区域调节，详细说明有标注，系统底部横条优先级很高，如果底部用不了就用顶部"
                 },
                 {
                     "class": "DepictionSeparatorView"
@@ -147,7 +147,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "### 1.5.3\n- 更换分屏图标\n- 新增侧边栏应用（依附于悬浮图标）\n- 优化浮窗动画，秉持从哪呼出，回哪去。\n- 移除图钉、浮窗背景\n- 浮窗多窗口操作(调度)具体操作自行查看设置研究"
+                    "markdown": "### 1.5.3\n- 更换分屏图标\n- 新增侧边栏应用（依附于悬浮图标）\n- 优化浮窗动画，秉持从哪呼出，回哪去\n- 移除图钉、浮窗背景\n- 浮窗多窗口操作(调度)具体操作自行查看设置研究"
                 },
                 {
                     "class": "DepictionSeparatorView"
@@ -217,7 +217,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "### 1.5.0-12\n- 支持实时搜索app。\n- 分离快捷按钮启动浮窗开关。\n- 修改关闭浮窗时关闭相机逻辑，调整为进入桌面、通知中心关闭。"
+                    "markdown": "### 1.5.0-12\n- 支持实时搜索app\n- 分离快捷按钮启动浮窗开关\n- 修改关闭浮窗时关闭相机逻辑，调整为进入桌面、通知中心关闭"
                 },
                 {
                     "class": "DepictionSeparatorView"
@@ -259,7 +259,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "### 1.5.0-6\n- 修复偶发性记录浮窗位置失效问题（换了记录方式，先前存储的位置信息不再读取，首次打开是默认位置，是正常现象。）"
+                    "markdown": "### 1.5.0-6\n- 修复偶发性记录浮窗位置失效问题（换了记录方式，先前存储的位置信息不再读取，首次打开是默认位置，是正常现象）"
                 },
                 {
                     "class": "DepictionSeparatorView"
@@ -301,7 +301,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "### 1.5.0\n- 新增横屏平铺键盘功能（目前不稳定，后续可能优化，或者割舍）\n- 修复总开关关闭时，相机权限依旧生效问题。"
+                    "markdown": "### 1.5.0\n- 新增横屏平铺键盘功能（目前不稳定，后续可能优化，或者割舍）\n- 修复总开关关闭时，相机权限依旧生效问题"
                 },
                 {
                     "class": "DepictionSeparatorView"
@@ -315,7 +315,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "### 1.4.9-6\n- 优化截图隐藏ARC和悬浮图标逻辑，避免与其他应用冲突。调整为仅在截图或录屏时隐藏，不影响正常操作。\n- 优化外部插件唤起浮窗和ARC的逻辑，确保在功能关闭时不会误触发。"
+                    "markdown": "### 1.4.9-6\n- 优化截图隐藏ARC和悬浮图标逻辑，避免与其他应用冲突，调整为仅在截图或录屏时隐藏，不影响正常操作\n- 优化外部插件唤起浮窗和ARC的逻辑，确保在功能关闭时不会误触发"
                 },
                 {
                     "class": "DepictionSeparatorView"
