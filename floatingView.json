@@ -94,7 +94,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2025年3月24日",
+                    "text": "2025年4月6日",
                     "title": "最后更新"
                 }
             ]
@@ -103,6 +103,20 @@
             "class": "DepictionStackView",
             "tabname": "更新",
             "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 1.5.3-9\n- 修复外部唤出arc触控失效问题"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 1.5.3-8\n- 优化呼出arc、操控台操作逻辑，允许在多指操作下识别角落区域"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "### 1.5.3-7\n- 修复通知横幅打开浮窗，后续全屏打开失败问题"
