@@ -112,6 +112,13 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
+                    "markdown": "### 1.5.4\n- arc动画调整\n- arc工具新增开启标识\n- 移除arc按钮背景颜色\n- 新增arc层级数量\n- 修复热更新对浮窗布局影响问题"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionMarkdownView",
                     "markdown": "### 1.5.3-11\n- 修复打开arc锁屏后导致滑动不了的情况（比如接电话，锁屏关机）"
                 },
                 {
