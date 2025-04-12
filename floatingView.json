@@ -94,7 +94,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2025年4月8日",
+                    "text": "2025年4月12日",
                     "title": "最后更新"
                 }
             ]
@@ -103,6 +103,13 @@
             "class": "DepictionStackView",
             "tabname": "更新",
             "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 1.5.4-1\n- 完全移除外部唤起arc\n- 修复锁屏来电、文件分享造成无法触控问题"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "### 1.5.3-11\n- 修复打开arc锁屏后导致滑动不了的情况（比如接电话，锁屏关机）"
