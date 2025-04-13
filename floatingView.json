@@ -105,6 +105,13 @@
             "views": [
                 {
                     "class": "DepictionMarkdownView",
+                    "markdown": "### 1.5.4-3\n- 支持调节arc灵敏度"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionMarkdownView",
                     "markdown": "### 1.5.4-2\n- 支持调节arc与屏幕边缘相隔距离\n- 支持自定义arc工具栏按钮颜色"
                 },
                 {
