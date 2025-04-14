@@ -105,6 +105,13 @@
             "views": [
                 {
                     "class": "DepictionMarkdownView",
+                    "markdown": "### 1.5.4-4\n- 支持外部唤起arc，但外部不能控制arc左右方向，方向由分屏arc逻辑为主（望悉知）\n- 修复arc部分配置丢失热更新效果"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionMarkdownView",
                     "markdown": "### 1.5.4-3\n- 支持调节arc灵敏度"
                 },
                 {
