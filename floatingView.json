@@ -94,7 +94,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2025年4月13日",
+                    "text": "2025年4月15日",
                     "title": "最后更新"
                 }
             ]
@@ -103,6 +103,13 @@
             "class": "DepictionStackView",
             "tabname": "更新",
             "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 1.5.4-5\n- arc工具栏新增定位服务、二维码、扫一扫操作（二维码、扫一扫可自行选择微信或者支付宝，开关位置自行翻找）"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "### 1.5.4-4\n- 支持外部唤起arc，但外部不能控制arc左右方向，方向由分屏arc逻辑为主（望悉知）\n- 修复arc部分配置丢失热更新效果"
