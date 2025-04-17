@@ -94,7 +94,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2025年4月15日",
+                    "text": "2025年4月17日",
                     "title": "最后更新"
                 }
             ]
@@ -103,6 +103,13 @@
             "class": "DepictionStackView",
             "tabname": "更新",
             "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 1.5.4-7\n- 新增重置悬浮图标位置按钮\n- arc工具栏新增关机、重启、清理后台任务栏应用操作按钮"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "### 1.5.4-6\n- arc工具栏新增打开通知中心按钮\n- 修复打开浮窗时，未能及时刷新角标问题\n- 修复arc应用打开方式为全屏打开时，横屏丢失固定浮窗打开逻辑"
