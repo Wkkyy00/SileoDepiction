@@ -9,15 +9,11 @@
             "tabname": "描述",
             "views": [
                 {
-          "text": "加入QQ交流群",
-          "action": "http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=2MiWSUJDaoBpaYaZLioOMOZfxe-6WU4I&authKey=VLeMdtW%2B7Fz72rFxsx7Nw4o0W0gTfKKf6lYN2IsbC%2FzwB3xMWFpC0hQerYLdKAlF&noverify=0&group_code=662319295",
-          "openExternal": 1,
-          "class": "DepictionButtonView"
+                    "text": "加入QQ交流群",
+                    "action": "http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=2MiWSUJDaoBpaYaZLioOMOZfxe-6WU4I&authKey=VLeMdtW%2B7Fz72rFxsx7Nw4o0W0gTfKKf6lYN2IsbC%2FzwB3xMWFpC0hQerYLdKAlF&noverify=0&group_code=662319295",
+                    "openExternal": 1,
+                    "class": "DepictionButtonView"
                 },
-                {
-            "class": "DepictionStackView",
-            "tabname": "描述",
-            "views": [
                 {
                     "markdown": "## \n- 分屏，不必太复杂，一切从简即可。\n- 付费版本，不买别安装哈，👀看清楚。\n- 购买咨询加上方QQ群即可。",
                     "useSpacing": true,
