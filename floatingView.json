@@ -100,7 +100,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2025年4月17日",
+                    "text": "2025年4月20日",
                     "title": "最后更新"
                 }
             ]
@@ -109,6 +109,13 @@
             "class": "DepictionStackView",
             "tabname": "更新",
             "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 1.5.4-8\n- 修复使用浮窗分享文件时，异常显示外置键盘背景问题\n- 优化内置键盘显示逻辑"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "### 1.5.4-7\n- 新增重置悬浮图标位置按钮\n- arc工具栏新增关机、重启、清理后台任务栏应用操作按钮"
