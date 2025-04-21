@@ -111,6 +111,13 @@
             "views": [
                 {
                     "class": "DepictionMarkdownView",
+                    "markdown": "### 1.5.5-3\n- 修复部分机型安全模式问题\n- 修复iPad上屏幕倒置时，呼出操控台显示异常问题"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionMarkdownView",
                     "markdown": "### 1.5.5-2\n- 修复锁屏时未重置arc状态而引发的部分问题\n- 降低arc唤起浮窗线程压力"
                 },
                 {
