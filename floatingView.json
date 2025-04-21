@@ -111,6 +111,13 @@
             "views": [
                 {
                     "class": "DepictionMarkdownView",
+                    "markdown": "### 1.5.5-2\n- 修复锁屏时未重置arc状态而引发的部分问题\n- 降低arc唤起浮窗线程压力"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionMarkdownView",
                     "markdown": "### 1.5.5-1\n- 修复偶性取消手势后无法恢复问题"
                 },
                 {
