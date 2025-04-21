@@ -100,7 +100,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2025年4月20日",
+                    "text": "2025年4月21日",
                     "title": "最后更新"
                 }
             ]
@@ -109,6 +109,13 @@
             "class": "DepictionStackView",
             "tabname": "更新",
             "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 1.5.5\n- 修改arc手势误触逻辑，调整为移动时判断是否在触控区域且方向朝内。如果触发arc区域手势，则会取消其它手指触控。（理论上arc设置50最大触控范围，也不影响角落点击了）"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "### 1.5.4-9\n- 修复外置键盘背景显示异常问题"
