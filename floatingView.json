@@ -111,6 +111,13 @@
             "views": [
                 {
                     "class": "DepictionMarkdownView",
+                    "markdown": "### 1.5.4-9\n- 修复外置键盘背景显示异常问题"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionMarkdownView",
                     "markdown": "### 1.5.4-8\n- 修复使用浮窗分享文件时，异常显示外置键盘背景问题\n- 优化内置键盘显示逻辑"
                 },
                 {
