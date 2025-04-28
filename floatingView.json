@@ -111,6 +111,13 @@
             "views": [
                 {
                     "class": "DepictionMarkdownView",
+                    "markdown": "### 1.5.5-5\n- 优化arc逻辑，起始位置不再受自定义与屏幕边距的影响"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionMarkdownView",
                     "markdown": "### 1.5.5-4\n- 修复arc录屏开关无法关闭直播录制状态\n- 新增键盘震动功能，自行取舍，建议使用系统自带键盘不要开启"
                 },
                 {
