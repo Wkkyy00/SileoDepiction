@@ -49,6 +49,13 @@
             "views": [
                 {
                     "class": "DepictionMarkdownView",
+                    "markdown": "### 1.0-3\n- 新增头像时间标签\n- 鉴于助手不再更新相关功能\n- 且这个功能刚需，又卡，所以加入\n- 不会像助手聊天记录内显示标签\n- 左右侧视频倍速支持调节大小选择\n- 为了避免影响你我美好心情请避免提出任何建议"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionMarkdownView",
                     "markdown": "### 1.0-1\n- 为微信聊天页面视频增加长按手势\n- 功能均约束在屏幕边缘位置\n- 左侧慢放 0.5x\n- 右侧倍速 2x\n- 测试版本：8.0.59"
                 }
             ]
