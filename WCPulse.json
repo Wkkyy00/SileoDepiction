@@ -49,6 +49,13 @@
             "views": [
                 {
                     "class": "DepictionMarkdownView",
+                    "markdown": "### 1.0-7\n- 新增一些问题\n- 优化部分代码\n- 解决提出问题的人\n- 合并插件管理排序的代码\n- 默认绕过多开人脸、无后台限制\n- 解决聊天记录内文件错误显示时间标签"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionMarkdownView",
                     "markdown": "### 1.0-6\n- 完全修复以及支持长消息、语音的时间标签显示\n- 防撤回支持空行设置 支持全局标签跳转\n- 新增设置隐藏后时间标签高度\n- 倍速播放支持朋友圈视频"
                 },
                 {
