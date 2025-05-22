@@ -49,6 +49,13 @@
             "views": [
                 {
                     "class": "DepictionMarkdownView",
+                    "markdown": "### 1.0-8\n- 新增禁止删除消息聊天记录\n- 新增长按首页消息预览视图\n- 🔔小提示\n- 类似微信7.x 版本中存在的3D Touch 预览功能\n- 支持进入/置顶/免打扰 同样支持取消"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionMarkdownView",
                     "markdown": "### 1.0-7\n- 新增一些问题\n- 优化部分代码\n- 解决提出问题的人\n- 合并插件管理排序的代码\n- 默认绕过多开人脸、无后台限制\n- 解决聊天记录内文件错误显示时间标签"
                 },
                 {
