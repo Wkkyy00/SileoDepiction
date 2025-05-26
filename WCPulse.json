@@ -49,6 +49,13 @@
             "views": [
                 {
                     "class": "DepictionMarkdownView",
+                    "markdown": "### 1.0-9\n- 新增 “删除会话” 菜单项\n- 消息列表按压后根据手指位置显示菜单\n- 移除绕过多开限制功能确保稳定性\n- 加入兼容性判断 确保不支持按压的地方不会崩溃\n- 修复热更新导致的防撤回失效"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionMarkdownView",
                     "markdown": "### 1.0-8\n- 新增禁止删除消息聊天记录\n- 新增长按首页消息预览视图\n- 🔔小提示\n- 类似微信7.x 版本中存在的3D Touch 预览功能\n- 支持进入/置顶/免打扰 同样支持取消"
                 },
                 {
