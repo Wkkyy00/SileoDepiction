@@ -8,8 +8,7 @@
             "class": "DepictionStackView",
             "tabname": "描述",
             "views": [
-                {
-                    "markdown": "## \n- 分屏，不必太复杂，一切从简即可。\n- 付费版本，不买别安装哈，看清楚。\n- 购买咨询加上方QQ群即可。",
+{                    "markdown": "## \n- 分屏，不必太复杂，一切从简即可。\n- 付费版本，不买别安装哈，看清楚。\n- 购买咨询加上方QQ群即可。",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
