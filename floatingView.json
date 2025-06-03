@@ -8,7 +8,8 @@
             "class": "DepictionStackView",
             "tabname": "描述",
             "views": [
-{                    "markdown": "## \n- 分屏，不必太复杂，一切从简即可。",
+                {
+                    "markdown": "## \n- 分屏，不必太复杂，一切从简即可。",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
@@ -102,6 +103,13 @@
             "class": "DepictionStackView",
             "tabname": "更新",
             "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 1.5.5-10\n- 悬浮图标背景修改为毛玻璃效果\n- 侧边栏应用背景修改为毛玻璃效果\n- 新增外部插件关闭浮窗、打开上一次浮窗接口"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "### 1.5.5-9\n- 外部唤起浮窗默认从屏幕中间显示隐藏\n- 优化搜索应用速度"
