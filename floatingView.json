@@ -105,6 +105,13 @@
             "views": [
                 {
                     "class": "DepictionMarkdownView",
+                    "markdown": "### 1.5.6\n- 修复外部关闭浮窗失效问题\n- 侧边栏应用、浮窗阴影适配暗黑模式\n- 新增浮窗交互接口"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionMarkdownView",
                     "markdown": "### 1.5.5-10\n- 悬浮图标背景修改为毛玻璃效果\n- 侧边栏应用背景修改为毛玻璃效果\n- 新增外部插件关闭浮窗、打开上一次浮窗接口"
                 },
                 {
