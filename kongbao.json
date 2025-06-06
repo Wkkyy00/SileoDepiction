@@ -16,7 +16,7 @@
                 },
 
                 {
-                    "markdown": "## 描述\n- 如图下文。",
+                    "markdown": "## 描述\n- 不要为了越狱放弃升级的乐趣，如若有缘我们iOS18越狱再见。",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
@@ -44,7 +44,7 @@
                     "screenshots": [
                         {
                             "accessibilityText": "Screenshot",
-                            "url": "https://s1.imagehub.cc/images/2025/03/02/712b93a71f8ca34017648569f705c6c7.png"
+                            "url": "https://s1.imagehub.cc/images/2025/06/07/bd848e9f5505ba7c4990fa156f651568.png"
                         }
                     ]
                 },
@@ -77,7 +77,7 @@
                 },
                                 {
                     "class": "DepictionTableTextView",
-                    "text": "2099 年 12 月 31 日",
+                    "text": "2025 年 06 月 07 日",
                     "title": "最后更新"
                 }
             ]
@@ -88,7 +88,7 @@
             "views": [
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "### 1.0\n- 无",
+                    "markdown": "### 1.0\n- iOS18越狱再见",
                 },
                 
             ]
