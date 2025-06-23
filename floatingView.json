@@ -94,7 +94,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2025年6月5日",
+                    "text": "2025年6月23日",
                     "title": "最后更新"
                 }
             ]
@@ -103,6 +103,13 @@
             "class": "DepictionStackView",
             "tabname": "更新",
             "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 1.5.6-4\n- 修改了关闭浮窗的某些逻辑"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "### 1.5.6-3\n- 浮窗动画重新优化"
