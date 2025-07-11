@@ -94,7 +94,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2025年6月23日",
+                    "text": "2025年7月12日",
                     "title": "最后更新"
                 }
             ]
@@ -103,6 +103,13 @@
             "class": "DepictionStackView",
             "tabname": "更新",
             "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 1.5.6-5\n- 新增arc工具栏可以将当前应用放置侧边悬浮\r搭配Tie手势也可以"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "### 1.5.6-4\n- 修改了关闭浮窗的某些逻辑"
