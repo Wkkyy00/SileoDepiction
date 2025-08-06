@@ -49,6 +49,13 @@
             "views": [
                 {
                     "class": "DepictionMarkdownView",
+                    "markdown": "### 1.2-1\n- 新增语音转文字背景透明\n- 新增首页圆角\n- 修复角标不更新\n- 新增过滤重复联系人\n- 新增双击跳转到未读位置\n- 新增自定义角标 Document 目录下 pulseBadge.png\n- 修复一些已知的问题"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionMarkdownView",
                     "markdown": "### 1.1-9\n- 完全重构角标逻辑（自定义角标仅支持识别盒子）\n- 优化UI的整体逻辑（适配盒子背景图）\n- 新增重置所有颜色配置（右上角加号）\n- 新增重启应用按钮（无需手动介入，自动重启）\n- 所有颜色配置全部支持日/夜间单独配置\n- 优化手势的处理逻辑\n- 完善更加清晰表示说明\n- 新增隐藏\"全部\"角标功能\n- 提示：所有分组都支持角标提示"
                 },
                 {
