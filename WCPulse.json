@@ -49,6 +49,13 @@
             "views": [
                 {
                     "class": "DepictionMarkdownView",
+                    "markdown": "### 1.2-2\n- 修复左滑删除时闪退问题\n- 修复若干性能问题\n- 优化 UI，感谢猫哥提供的 ColorPicker 代码！\n- 首页圆角逻辑进一步完善\n- 其它细节优化（不记得了，自己看吧）\n- 建议用我的分组的配合我的圆角\n- 仅在8.0.61测试"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionMarkdownView",
                     "markdown": "### 1.2-1\n- 新增语音转文字背景透明\n- 新增首页圆角\n- 修复角标不更新\n- 新增过滤重复联系人\n- 新增双击跳转到未读位置\n- 新增自定义角标 Document 目录下 pulseBadge.png\n- 修复一些已知的问题"
                 },
                 {
