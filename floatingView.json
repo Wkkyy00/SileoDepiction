@@ -105,6 +105,13 @@
             "views": [
                 {
                     "class": "DepictionMarkdownView",
+                    "markdown": "### 1.5.6-6\n- 新增点击浮窗外关闭主浮窗功能。\n- 修复键盘显示一系列问题"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionMarkdownView",
                     "markdown": "### 1.5.6-5\n- 新增arc工具栏可以将当前应用放置侧边悬浮\r搭配Tie手势也可以"
                 },
                 {
