@@ -49,6 +49,13 @@
             "views": [
                 {
                     "class": "DepictionMarkdownView",
+                    "markdown": "### 1.2-3\n- 完全重构分组逻辑 确保稳定性\n- 优化分组切换动画和交互\n- 修复分组数据同步问题\n- 修复圆角分割问题\n- 修复过滤联系人问题\n- 修复一些已知的问题\n- 新增搜索圆角效果\n- 仅适配8.0.49+"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionMarkdownView",
                     "markdown": "### 1.2-2\n- 修复左滑删除时闪退问题\n- 修复若干性能问题\n- 优化 UI，感谢猫哥提供的 ColorPicker 代码！\n- 首页圆角逻辑进一步完善\n- 其它细节优化（不记得了，自己看吧）\n- 建议用我的分组的配合我的圆角\n- 仅在8.0.61测试"
                 },
                 {
