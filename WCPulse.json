@@ -49,6 +49,13 @@
             "views": [
                 {
                     "class": "DepictionMarkdownView",
+                    "markdown": "### 1.2-5\n- 新增接管AI翻译\n- 修复长按菜单冲突\n- 优化代码"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionMarkdownView",
                     "markdown": "### 1.2-4\n- 新增语音背景去除\n- 新增移除主页邀请好友入口\n- 新增服务号角标隐藏\n- 修复置顶过滤开关问题\n- 重构圆角处理逻辑（解决了卡顿）\n- 修复自定分组不更新排序问题\n- 修复密友未隐藏的问题\n- 修复折叠群未隐藏的问题\n- 支持在空白区域切换分组\n- 优化刷新响应速度，不延迟\n- 修复部分设备热更新问题\n- 兼容折叠置顶功能"
                 },
                 {
