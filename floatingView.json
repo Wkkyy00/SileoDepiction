@@ -94,7 +94,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2025年7月12日",
+                    "text": "2025年10月5日",
                     "title": "最后更新"
                 }
             ]
@@ -103,6 +103,13 @@
             "class": "DepictionStackView",
             "tabname": "更新",
             "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 1.5.6-9\n- 新增侧边小窗与刘海方向安全距离设置\n- 新增arc按钮背景颜色自定义设置\n- 新增浮窗角落点击生效场景设置"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "### 1.5.6-8\n- 新增任务栏浮窗应用快照开关"
