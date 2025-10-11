@@ -49,6 +49,13 @@
             "views": [
                 {
                     "class": "DepictionMarkdownView",
+                    "markdown": "### 1.2-6\n- 并入消息直达功能\n- 并入插件排序功能\n- 重构整体 UI 界面\n- 修复原图发送问题（预览页）\n- 修复自动发送实况问题（适配）\n- 优化一些强迫症需要调整的细节"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionMarkdownView",
                     "markdown": "### 1.2-5\n- 新增接管AI翻译\n- 修复长按菜单冲突\n- 优化代码"
                 },
                 {
