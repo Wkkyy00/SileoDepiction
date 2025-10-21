@@ -49,6 +49,13 @@
             "views": [
                 {
                     "class": "DepictionMarkdownView",
+                    "markdown": "### 1.2-7\n- 新增左滑返回功能\n- 新增全局(屏)返回功能\n- 优化代码结构\n- 提示：左滑返回的震动跟随插件设置\n- 全局(屏) 返回继承自 WCFullSwipe 项目\n- 并优化触发逻辑，解决图片无法滑动问题\n- 如果有习惯右滑引用回复的，专门做了点适配，可以在屏幕边缘 1/4 的位置操作"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionMarkdownView",
                     "markdown": "### 1.2-6\n- 并入消息直达功能\n- 并入插件排序功能\n- 重构整体 UI 界面\n- 修复原图发送问题（预览页）\n- 修复自动发送实况问题（适配）\n- 优化一些强迫症需要调整的细节"
                 },
                 {
