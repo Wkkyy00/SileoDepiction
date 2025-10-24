@@ -49,6 +49,13 @@
             "views": [
                 {
                     "class": "DepictionMarkdownView",
+                    "markdown": "### 1.3-1\n- 新增返回手势震动单独控制\n- 修复全屏返回与助手工具栏、地图、手势密码冲突"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionMarkdownView",
                     "markdown": "### 1.2-9\n- 新增表情包保存功能（含动图）\n- 新增禁用首页「视频号与公众号」（可同步黄白配置）\n- 修复媒体选择、小程序页面错误应用全屏返回手势\n- 全部页面覆盖全屏返回手势\n- UI对齐及细节调整\n- 全屏返回手势生效域调整"
                 },
                 {
