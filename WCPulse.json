@@ -49,6 +49,13 @@
             "views": [
                 {
                     "class": "DepictionMarkdownView",
+                    "markdown": "### 1.3-2\n- 新增长按截图预览快捷发送到当前会话\n- 修复截图预览界面没勾选原图\n- 新增后台高斯模糊\n- 新增拖动图片快捷发送至会话\n- 支持拖动发送 GIF 表情包\n- 修复首页返回后卡死问题\n- 修复了长久以来全局切换分组手势长期残留的所有问题\n- 优化全局切换分组手势灵敏度\n- 优化保存表情包的反馈逻辑\n- 修复移除首页邀请好友功能失效问题\n- 新增图片转表情发送功能、支持原图发送（需手动加载一次）\n- 大量UI方面优化\n- 使用了 Netskao / WeChatDragDropImages 开源项目，特别感谢！\n- 注意：对比原版WeChatDragDropImages，适配了GIF 发送\n- 图片转表情如需高清图需要手动点开加载一次（临时性的）\n- 插件内所有震动均为全部配置"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionMarkdownView",
                     "markdown": "### 1.3-1\n- 新增返回手势震动单独控制\n- 修复全屏返回与助手工具栏、地图、手势密码冲突"
                 },
                 {
