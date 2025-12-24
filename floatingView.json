@@ -105,6 +105,13 @@
             "views": [
                 {
                     "class": "DepictionMarkdownView",
+                    "markdown": "### 1.5.7-1\n- 新增关闭弹性效果开关"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionMarkdownView",
                     "markdown": "### 1.5.7\n- 彻底修复iOS17.0设备安全模式问题\n- 新增加了悬浮图标仅横屏隐藏选项"
                 },
                 {
