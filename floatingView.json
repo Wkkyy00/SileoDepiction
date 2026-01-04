@@ -94,7 +94,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2025年12月27日",
+                    "text": "2026年1月4日",
                     "title": "最后更新"
                 }
             ]
@@ -103,6 +103,13 @@
             "class": "DepictionStackView",
             "tabname": "更新",
             "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 1.5.8-4\n- 新增底部横条手势操作事件，可自行选择将前台应用浮窗或侧边打开\n- 调增点击浮窗外部操作逻辑，可自行选择关闭浮窗或侧边"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "### 1.5.8-2\n- 新增采用浮窗跳转排除应用选项"
