@@ -112,6 +112,13 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
+                    "markdown": "### 1.5.8-3\n- 修复17.0三屏不显示App"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionMarkdownView",
                     "markdown": "### 1.5.8-2\n- 新增采用浮窗跳转排除应用选项"
                 },
                 {
