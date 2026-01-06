@@ -105,6 +105,13 @@
             "views": [
                 {
                     "class": "DepictionMarkdownView",
+                    "markdown": "### 1.5.8-5\n- 新增侧边小窗手势事件"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionMarkdownView",
                     "markdown": "### 1.5.8-4\n- 新增底部横条手势操作事件，可自行选择将前台应用浮窗或侧边打开\n- 调增点击浮窗外部操作逻辑，可自行选择关闭浮窗或侧边"
                 },
                 {
