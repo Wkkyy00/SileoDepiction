@@ -105,6 +105,20 @@
             "views": [
                 {
                     "class": "DepictionMarkdownView",
+                    "markdown": "### 1.5.9\n- 新增全屏应用universelink跳转回调结束关闭对应的浮窗"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 1.5.8-9\n- 修复相机权限关闭依旧生效问题\n- 修复iOS17.0分屏调用相机黑屏的情况"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionMarkdownView",
                     "markdown": "### 1.5.8-7\n- 优化底部横条手势事件排除应用选择修改为生效应用选择"
                 },
                 {
