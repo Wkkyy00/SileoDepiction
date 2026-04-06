@@ -94,7 +94,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2026年1月4日",
+                    "text": "2026年4月6日",
                     "title": "最后更新"
                 }
             ]
@@ -103,6 +103,13 @@
             "class": "DepictionStackView",
             "tabname": "更新",
             "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 1.6.0\n- 修复vpn配置错误导致偶发性安全模式问题"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "### 1.5.9\n- 新增全屏应用universelink跳转回调结束关闭对应的浮窗"
