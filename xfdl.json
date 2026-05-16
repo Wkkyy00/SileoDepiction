@@ -9,7 +9,7 @@
             "tabname": "描述",
             "views": [
                 {
-                    "markdown": "## 一个非常精致的微信悬浮底栏，包含三种默认样式以及自定义样式，多种位置、颜色、透明度可自由调节",
+                    "markdown": "## 描述\n- 一个非常精致的微信悬浮底栏，包含三种默认样式以及自定义样式，多种位置、颜色、透明度可自由调节",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
