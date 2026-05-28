@@ -33,11 +33,11 @@
                 {
                     "class": "DepictionScreenshotsView",
                     "itemCornerRadius": 0,
-                    "itemSize": "{300, 700}",
+                    "itemSize": "{400, 400}",
                     "screenshots": [
                         {
                             "accessibilityText": "Screenshot",
-                            "url": "https://s1.imagehub.cc/images/2026/05/27/de84829531f756ac89c5ba29479f25a3.png"
+                            "url": "https://s1.imagehub.cc/images/2026/05/28/814bcc4839212f861e6eaea279b80acc.png"
                         }
                     ]
                 }
